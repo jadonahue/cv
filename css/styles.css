@@ -15,16 +15,15 @@ h4 {
     color: #3282B8;
 }
 
-th {
-    color: #3282B8;
-}
-
-
 hr {
     background-color: transparent;
-    border-style: dotted none none;
     border-color: grey;
+    border-style: dotted none none;
     border-width: 05px;
     height: 20px;
     width: 03%;
+}
+
+th {
+    color: #3282B8;
 }
